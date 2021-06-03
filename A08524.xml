@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order, whych a prince in battayll muste obserue, and kepe, yf he entende to subdewe, or passe thoroughe his enemyes landes</title>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08524</idno><idno type="EEBO-CITATION">99855981</idno>
+  <idno type="VID">21494</idno>
+  <idno type="EEBO-PROQUEST">2240897148</idno>
+  <idno type="STC">STC 18842</idno>
+  <idno type="STC">ESTC S120788</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855981e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 121:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order, whych a prince in battayll muste obserue, and kepe, yf he entende to subdewe, or passe thoroughe his enemyes landes</title>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>In saynt Andrews paryshe besyde Baynards castell by Thomas Raynold and Wylliam Hyll],</publisher>
+                  <pubPlace>[Imprinted at Londo[n] :</pubPlace>
+                  <date>[1548?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Based on the De re militari of Flavius Vegetius Renatus--Cf. STC.</note>
+                  <note>Imprint from colophon; conjectured publication date from STC.</note>
+                  <note>Signatures: A-B C⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Military art and science --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21494:1"/>
+            <pb facs="tcp:21494:1"/>
+            <figure>
+               <figDesc>decorative border with a medallion on each jamb incorporating printer's device of William Middleton(1551-57) on a shield supported by two cherubs, including the initials W and M (McKerrow No. 106)</figDesc>
+            </figure>
+            <p>¶ An order / whych a Prince in battayll muste ob<g ref="char:EOLhyphen"/>serue, and kepe, yf he entende to sub<g ref="char:EOLhyphen"/>dewe, or passe thoroughe his ene<g ref="char:EOLhyphen"/>myes lan<g ref="char:EOLhyphen"/>des.</p>
+            <p>☞{fleur-de-lys}☜</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:21494:2"/>
+            <pb facs="tcp:21494:2"/>
+            <head>¶ A necessare order to be obserued in battayll.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">F</seg>Yrst he must examin, whether hys cause be lawfull and iuste, for in a iuste cause: God shall assyste hym.</p>
+               <p>Item he must prouyde that he haue a sufficiente nomber of men and moneye redy for them.</p>
+               <p>Item he muste counsail, wyth the most wyse &amp; experte mē of hys realme, of the weyght and daun<g ref="char:EOLhyphen"/>gers, that may fal: so that as far<g ref="char:EOLhyphen"/>re as reason may leade him, he be not ignoraunte, what frute shall follow of hys bataill.</p>
+               <p>Item he muste prouyde that hys hoste lacke no vyttayles.</p>
+               <p>Itē he must see that he lacke no
+<pb facs="tcp:21494:3"/>engine and other thyng requyred to defende hym selfe or inuade hys ennemy.</p>
+               <p>Item that he haue capitay<g ref="char:EOLhyphen"/>nes experte in warres the whych shall execute hys cōmaundement Item let hym be assuryd of hys owne cuntrey or he inuade hys e<g ref="char:EOLhyphen"/>nemy, and yf case require, sette it quyet or elles departe not.</p>
+               <p>Item lette hym leue behynde hym sūme noble and crusted man to order and yf nede be to subdew hys enemyes in hys absence and order them.</p>
+               <p>Item that the moste strongest fortresse be cōmytted to hys most trusty freyndes.</p>
+               <p>Item y<seg rend="sup">e</seg> he oftentymes cōsulte &amp; coūsiall wyth hys wyse &amp; experte coūsiall that he may know what is moste expediēte to doo, and let
+<pb facs="tcp:21494:3"/>hym vse theyre counsaill.</p>
+               <p>Item when he entreth hys e<g ref="char:EOLhyphen"/>nemyes landes, he shall call hys hoste before hym y<seg rend="sup">t</seg> he may know the number, and yf he fynde any vnable to battaile put him away.</p>
+               <p>Item that he haue no super<g ref="char:EOLhyphen"/>fluous carryage, for ther of gro<g ref="char:EOLhyphen"/>weth greate dyspleasure, special<g ref="char:EOLhyphen"/>ly, when a prince intendeth shorte victory, and then let hys vyttay<g ref="char:EOLhyphen"/>les be hys moost carryage wher<g ref="char:EOLhyphen"/>in must be taken a good order, so that he haue thē with him or passe by such places wher it maibe had or els he wasshethe a stone, that is to saye, he laboureth in vaine.</p>
+               <p>Howe onely by customable vsage of dedes of armes the Ro<g ref="char:EOLhyphen"/>maynes had the victory of all o<g ref="char:EOLhyphen"/>ther nations.</p>
+               <p>The olde custō to chose knigh<g ref="char:EOLhyphen"/>tes
+<pb facs="tcp:21494:4"/>at .xvi. yere was age of to be perfete in theyr age and to the cu<g ref="char:EOLunhyphen"/>stome of warre.</p>
+               <p>Also a prince must dyligently consyder, whych be most pryncy<g ref="char:EOLhyphen"/>pal and most expert, &amp; ouer that. what euery man in hys hoste is moost apte vnto.</p>
+               <p>For it is very perylous to set an vnexperte mā in aucthoryte: for diuers mē haue dyuerse wyt<g ref="char:EOLhyphen"/>tes, and as they be, they must be vsed. Some be able to rewie an hoste: Some. C. foremen, other a hundreth horsemē, some be good on horse, some be good on fote, o<g ref="char:EOLhyphen"/>ther be good in felde or battail, o<g ref="char:EOLhyphen"/>ther to inuade a castel, other to de fende it, other sodeynly on horse to inuade an hooste, otherwyfte on horsebacke to espye newes, o<g ref="char:EOLhyphen"/>ther in rydyng, to compasse a fel<g ref="char:EOLhyphen"/>de
+<pb facs="tcp:21494:4"/>and note they re number, other apte to chose a mete or apte place for a felde, other be experte in bat taill, &amp; naught whē they be at it, whose counsaill is not to be refu<g ref="char:EOLhyphen"/>sed, other haue no experiēce, how be it they be valyaunt when they be put therto, other be both exper te and victoryous, other be able neyther to counsail defēde nor in<g ref="char:EOLhyphen"/>uade, they be good at home. {quod} <hi>sec<g ref="char:EOLhyphen"/>ta in vtilis.</hi> other be good in in<g ref="char:EOLhyphen"/>gynes, other to make brydges &amp; passages, other to espye they re<g ref="char:EOLhyphen"/>nemyes secretes, in dyssymuled habite, other to gyue coūsell and dyscusse ambassades, other me<g ref="char:EOLhyphen"/>te for executiō of iustice, other me te to kepe a princes treasure, and other thynges of charge.</p>
+               <p>Item the fore warde of the bat<g ref="char:EOLhyphen"/>taill must be stronge aswell wyth
+<pb facs="tcp:21494:5"/>horsemen, as with footemen, and let there be put his capitaines of the valyaunste.</p>
+               <p>Item he muste consyder that hys felde be set to a aduauntage and accordynge therto the hoste must be ordered.</p>
+               <p>Item that he prouide, where hys hoste shall cōmodyously reste or he departe from whens he is and diligently let hym note the cūtry whether it be plain, hilly, moū<g ref="char:EOLhyphen"/>taynes or full of waters, &amp; what straytes be therin.</p>
+               <p>Item yf he may, let hym haue it trewlye paynted or he enter: so that the daūgiers may be know<g ref="char:EOLhyphen"/>en and the horsemen may healpe the footemen in tyme of warre.</p>
+               <p>Itē let him prouide that his car<g ref="char:EOLunhyphen"/>riage trouble not his host, yf they be inuaded, wherfore let them be
+<pb facs="tcp:21494:5"/>conueyed by the one syde: prouy<g ref="char:EOLhyphen"/>ded that they be surely garded.</p>
+               <p>Item there must be pronysiō, that all artillary maye be surely caryed: for the losse of that is the perill of the hoste.</p>
+               <p>Itē that the explorators be sēt to espye the iourneys of the ad<g ref="char:EOLhyphen"/>uersaryes, and what vyttaylles they haue, with all other thinges by them intended.</p>
+               <p>Item that he take deliberati<g ref="char:EOLhyphen"/>on, yf he may get the frendeshyp of any greate man of hys ene<g ref="char:EOLhyphen"/>myes counsayll, by corruption of money or otherwyse, by whom he may know the purpose of hys sayde enemyes.</p>
+               <p>Item that euery day, there be sent light horsemen to the aduer<g ref="char:EOLhyphen"/>saries host to perceiue theyr pur<g ref="char:EOLhyphen"/>pose, lest they be sodēly inuaded,
+<pb facs="tcp:21494:6"/>and also to thentente he may in<g ref="char:EOLhyphen"/>uade them vnprouyded yf the ca<g ref="char:EOLhyphen"/>se so requyred. <hi>Requiruntur multi secreti et fideles.</hi>
+               </p>
+               <p>Item yf he can perceyue that hys aduersary intende hasty bat<g ref="char:EOLhyphen"/>tayle, let hym take hym selfe in a wayte, that he may prouyde hym in takyng of hys felde to his ad<g ref="char:EOLhyphen"/>uauntage, &amp; put hym selfe short<g ref="char:EOLhyphen"/>cely in order.</p>
+               <p>Item yf he knowe any daun<g ref="char:EOLhyphen"/>gerous waye betwene hym and hys enemeis, he shall by wysdom and dilygence procede towarde that, vntyll he come wythin .iii. or. iiii. bowe shotes, and ther put hym selfe in order to inuade hys hoste.</p>
+               <p>Item he muste espye what ar<g ref="char:EOLhyphen"/>tyllary hys enemies vse &amp; what order they take.</p>
+               <pb facs="tcp:21494:6"/>
+               <p> Item euery country hath his maner of fyghtynge to there ad<g ref="char:EOLhyphen"/>uantage, and there enemyes cō<g ref="char:EOLunhyphen"/>fusyon.</p>
+               <p>Item he must beware of eue<g ref="char:EOLhyphen"/>ry harde and dowtefull passage, except he haue leasure to cōuaye hys hoste or excepte necessyte cō<g ref="char:EOLhyphen"/>pelle hym.</p>
+               <p>Item it is better to abyde the comming to a bataill, then to in<g ref="char:EOLhyphen"/>uade, for the fyrst commers comō<g ref="char:EOLunhyphen"/>ly lacke order.</p>
+               <p>Itē yf the enemyes ryde oute of order, and wander, inuade thē, for lacke of order shal destroy thē</p>
+               <p>Item yf thyn enemyes drawe to hostry of no strength and dys<g ref="char:EOLhyphen"/>perse them selfe, then they be esy<g ref="char:EOLhyphen"/>lyer taken.</p>
+               <p>Item when the hoste draweth nere to the enemies, let the war<g ref="char:EOLhyphen"/>des
+<pb facs="tcp:21494:7"/>come night together for their better surcottes.</p>
+               <p>Item that footemen be on the one syde not mixte wyth horsemē, <hi>{quod} generaretur confusio.</hi>
+               </p>
+               <p>Item in euery warde must be some wyth hand gunnes, crosbo<g ref="char:EOLhyphen"/>wes and other manuall ingyns, and likewyse in the latter warde, to put a syde the lyhgt horsemen.</p>
+               <p>Item yf he may let hym, pro<g ref="char:EOLhyphen"/>uyde that the sonne and wynde, be for him, specyally for duste, yf there be any.</p>
+               <p>Itē yf he be horsed, and strō<g ref="char:EOLhyphen"/>ger then hys enemy, let hym pro<g ref="char:EOLhyphen"/>uoke hym to open bataill in the playne felde, and yf hys footemē be myghtyer then hys enemyes horsemē, let hym take the aduaū<g ref="char:EOLhyphen"/>tage of a streyght place.</p>
+               <p>Item when he inuadeth hys
+<pb facs="tcp:21494:7"/>enemy lette hys carriage be put, in the one syde &amp; surely garded.</p>
+               <p>Item he shall put hys ingy<g ref="char:EOLhyphen"/>nes of battaill betwene him and hys enemyes and well defende them.</p>
+               <p>Item yf he be compelled to folowe hys enemye, and for de<g ref="char:EOLhyphen"/>fault of vittaile to inuade ther<g ref="char:EOLhyphen"/>ni, or yf he dreade lest hys hoste fortefy hys company, so y<seg rend="sup">t</seg> he can<g ref="char:EOLunhyphen"/>not escape, excepte he ouercome his hoste, let him study to breake hys felde, that is to say, let hym vexe thē wyth gonnes and other poyntes of warre, so y<seg rend="sup">t</seg> they maye disorder them selfes.</p>
+               <p>Item a prince muste note the tyme and vse as it serueth hym.</p>
+               <p>Item when he is actually en<g ref="char:EOLhyphen"/>tered battail, hys host shall stāde styll in a clust, erand in no wyse
+<pb facs="tcp:21494:8"/>remoue frome the place, whatso<g ref="char:EOLhyphen"/>euer he see, though he see his cō<g ref="char:EOLhyphen"/>pany partely flee &amp; partely slay<g ref="char:EOLhyphen"/>ne, and also though he see hys e<g ref="char:EOLhyphen"/>nemyes flee, for order make the and marreth all.</p>
+               <p>Item whē thou hast inuaded thyne enemyes w<seg rend="sup">t</seg> the fore &amp; hyn<g ref="char:EOLhyphen"/>der warde, let the myddell stande styffe and close to helpe bothe, as nede shall requyre, and whē both wardes haue well fought, let the myddell warde fyght, but for all that let, them not dysorder them selfe excepte compulsyon.</p>
+               <p>Item he must haue prouysion for passages of waters,</p>
+               <p>Itē before the batayl, a prince must see the order of his host, and reforme all thynges mysordered, and thys may not be forgotten.</p>
+               <p>Item he shal shew them, that
+<pb facs="tcp:21494:8"/>he wyll lyue and dye wyth them that day, and that besydes theyre perpetuall honour, he wyl neuer forget to honour &amp; rewarde thē. <hi>additio.</hi> A and for thys let him see couragyous prynces orations, as Alexander, Catiline, wyth o<g ref="char:EOLhyphen"/>ther infinite. &amp;c.</p>
+               <p>Item he shal neyther magni<g ref="char:EOLhyphen"/>fye hys enemy nor despyce hym but encorage hys capytaygnes, to kepe there order, &amp; yf that they so doo, the victory wyll folowe.</p>
+               <p>Itē he shall practise that both his enemy and hys hoste, may al<g ref="char:EOLhyphen"/>waye thynke that more strength is commynge to hym.</p>
+               <p>Item that he see no robbyng, and that he commaūde hys cap<g ref="char:EOLhyphen"/>taines to see that obserued, payne of death.</p>
+               <p>Item that he execute indyffe<g ref="char:EOLhyphen"/>rently
+<pb facs="tcp:21494:9"/>iustice, and punyshe them, that cause debates.</p>
+               <p>Item when hys enemyes doo treate of peace, then let hym selfe lefte awayt. <hi>Propter pericula in hoe casu experta.</hi>
+               </p>
+               <p>Item let no mā passe hys cū<g ref="char:EOLhyphen"/>try, and inuade an other, without nede require, excepte he see, howe he may returne wyth honour, or howe he may surely abyde there: it is but symplenes to goo vp and downe in a cn̄try, and to ry<g ref="char:EOLhyphen"/>de farre in it, and harde it is to be longe sure in a cuntrey straung, and to returne w<seg rend="sup">t</seg> honor, for in the tyme of Talbot .vl knyghtes of Englāde laied sege to y<seg rend="sup">e</seg> towre of Roane, and whē they lacked that was necessary for theyr defence, therfore they loste it, &amp; lyke thyn<g ref="char:EOLhyphen"/>ges were done in at Britaine at
+<pb facs="tcp:21494:9"/>Vans where they loste all.</p>
+               <p>Item yf any tydynges come forthwyth, let them be herde, and folow thē, as the tyme shall serue</p>
+               <p>Item a prince, must be keping hys promyse, elles no man shall truste hym.</p>
+               <p>Item he muste study to haue the fauoure of the beste of the cū<g ref="char:EOLhyphen"/>strey, and he muste be iuste and egall.</p>
+               <p>Item a prince muste study to haue the freindeshyp of the cun<g ref="char:EOLhyphen"/>treis adioynyng, and let hym not haue, battaill wyth diuers at on<g ref="char:EOLhyphen"/>ce, excepte he be compelled, for there is moche suttelty vsed.</p>
+               <p>Item in the day of the battaill he must haue aboute hym, a cer<g ref="char:EOLhyphen"/>ten of the wysest &amp; moost experte men, to kepe follow and coūsaill them.</p>
+               <pb facs="tcp:21494:10"/>
+               <p> Item he muste prouyde that hys enemyes espye not the num<g ref="char:EOLhyphen"/>ber of hys hoste and the order of the same.</p>
+               <p>Item yf it fortune hym to lese a batayll or .ii. or to lese hys ac<g ref="char:EOLhyphen"/>tillary, then pollicy is to resorte to some fortres, and there to call hys hoste togyther, &amp; to refreshe them as nedethe and to get newe men, and to take peace yf he can, and in the meane tyme to make hys fortresse stronge, tyll he be able by some meanes to make ba<g ref="char:EOLunhyphen"/>taill, and to haue all thynges re<g ref="char:EOLhyphen"/>de therfore.</p>
+               <p>Item he shall sette hys tentes nyghe to hys enemies hoste that he may trouble and breake theyr aray.</p>
+               <p>Item he muste beware that he be not beseged.</p>
+               <pb facs="tcp:21494:10"/>
+               <p> Item he must beware that af<g ref="char:EOLhyphen"/>ter one bataile lost, he begine not another forth wyth, excepte neces<g ref="char:EOLhyphen"/>syte compell hym, for after a dy<g ref="char:EOLhyphen"/>strage the hoste can not sodenely be apte to fyght, for woūdes and mornynges shall let them &amp; theyr enemyes after vyctory, be more imboldet, how be it oftentymes, men thynke vpon dyspleasure to be reuēged and so for lacke of po<g ref="char:EOLhyphen"/>licy take fury rebuke and in thys maner Charles duke of Burgon was destroyed, wherfore set reasō before wyll, and begyn to thynke nothynge harde to perfourme.</p>
+               <p>Item yf thou wynne a batail or a forteresse of thyne enemies, pursew hym graciously, and suf<g ref="char:EOLhyphen"/>fer him neyther to reste nor to re<g ref="char:EOLhyphen"/>stable hys stregth, wysdom it is to folowe the aduauntage.</p>
+               <pb facs="tcp:21494:11"/>
+               <p> Item yf thou get a cuntry cō<g ref="char:EOLhyphen"/>mitte it to some greate man, and lykewyse of forteresses, and let hym be well intreated, and lacke no moneye for suche men woulde be cherysshed.</p>
+            </div>
+            <div type="part">
+               <head>¶ The maner of bese<g ref="char:EOLhyphen"/>gyng a forteresse.</head>
+               <p>FYrst a Prince muste remēbre whether he haue sufficient mē to besege yt in .iii. diuers par<g ref="char:EOLunhyphen"/>ties, &amp; whether ouer that he haue men sufficyente for hys owne de<g ref="char:EOLhyphen"/>fence and moneye bothe.</p>
+               <p>Item he muste prouyde artyl<g ref="char:EOLhyphen"/>lary and vittayles necessary and let him well beware that his vit<g ref="char:EOLhyphen"/>tayll come not to hys enemyes handes, and this principall to be noted.</p>
+               <pb facs="tcp:21494:11"/>
+               <p> Item he muste espye some mā that knowethe the strengthe of the forteresse and thery counsell muste he vse.</p>
+               <p>Item he must espye how it be most easely taken where and hys hoste may beste set theyr felde for theyr assuerty.</p>
+               <p>Item that done set them in the forwarde that were before sente to espye the strengthe of the for<g ref="char:EOLhyphen"/>teresse well furnysshed wyth ar<g ref="char:EOLhyphen"/>chers, and dyggers and all other thynges.</p>
+               <p>Item let them cōme as nyghe to the walles as they can and so order them that they may reiecte theyre enemies dartes.</p>
+               <p>Item aboue all thynges pro<g ref="char:EOLhyphen"/>uide that nothyng may passe out or enter into the forteresse, for yf one gate be open it shall be neuer
+<pb facs="tcp:21494:12"/>euercome.</p>
+               <p>Item let one warde be euer re<g ref="char:EOLhyphen"/>dy to helpe the other as nede shal require.</p>
+               <p>Item the fyrste daye of bese<g ref="char:EOLhyphen"/>gyng the felde must be fortyfied.</p>
+               <p>Item mē must be sente to eue<g ref="char:EOLhyphen"/>ry place to espye whether any re<g ref="char:EOLhyphen"/>scue be intended .&amp;c. and yf it so be let hym consyder there power and yf he see parell remowe hys hoste and hys artyllary lest he be inuaded in bothe sydes, &amp; voyde to some sure forteresse, for y<seg rend="sup">e</seg> tyme</p>
+               <p>Item yf he see his enemies of small power he maye set some to fyght wyth thē and other to kepe the sege.</p>
+               <p>Item whē the walles be bro<g ref="char:EOLhyphen"/>ken fortyfy hys mē, and make an assawte, prouided that he leue be<g ref="char:EOLunhyphen"/>hynde them both horsemen and
+<pb facs="tcp:21494:12"/>fotemen, to wythstāde hys backe enemyes for that not doynge the erle of Arminac loste by Sander a castell of Lumbardy.</p>
+               <p>Item yf he be put a backe in the fyrst conflicte let hym inuade assone as the daye folowyng, for vpon a vyctory oftentymes the opidanis be necligent, trustynge not sodeynly to be inuaded, by thys prouisyon many places and forteres hath ben optayned.</p>
+               <p>Item many other thynges be required how be it a prince muste specyally beware of treason and simulation.</p>
+            </div>
+            <div type="part">
+               <head>❧ Howe a Prince bese<g ref="char:EOLhyphen"/>ged shall order hym selfe.</head>
+               <p>ABoue all thynge a Prynce must study aswel in tyme of peace as in warre be knowe
+<pb facs="tcp:21494:13"/>hys neyghbours myndes, and oftentymes to sēde orators to thē aswell to nourysshe loue as to knowe theyr good wyll.</p>
+               <p>Item yf he see by a Prynces ordinaūce that he intēdeth warre let hym streyngthe hys forteresse towardes that contry.</p>
+               <p>Itē let hym make some frein<g ref="char:EOLhyphen"/>de in that Princes house by whō he may knowe what is intended.</p>
+               <p>Itē yf he be assurid y<seg rend="sup">t</seg> the prince intedeth hym warre let hym pre<g ref="char:EOLhyphen"/>pare an hoste of as myghty men as hys money wyll suffer hym to doo, and yf he thynke hym suffy<g ref="char:EOLhyphen"/>cient to ouercom him, let hym fo<g ref="char:EOLhyphen"/>lowe hys fortune and tarry hys enemie in the entre to hys contry or yf he maye in hys enemyes contrye.</p>
+               <p>Item yf he thynke hym selfe
+<pb facs="tcp:21494:13"/>vnsufficyente in men and money let hym fortify hys hedde places nexte to hys enemyes, and garde them wyth money.</p>
+               <p>Item yf there be moo forte<g ref="char:EOLhyphen"/>resses then he maye furnysshe let them be take downe and all ma<g ref="char:EOLhyphen"/>ner vyttayll be caryed frō thens, and the cuntry lefte bare.</p>
+               <p>Item let him haue good capi<g ref="char:EOLhyphen"/>taygnes in hys Forteresses the whyche maye doo hys enemyes daylye dyspleasure and dysperse his hoste, as it was done at Mitz and other places.</p>
+               <p>Item horsemen must be pro<g ref="char:EOLhyphen"/>uided as it shalbe thought neces<g ref="char:EOLhyphen"/>sary to take the messengers, and then make prouision with order.</p>
+               <p>Ite yf such obstacles be pur<g ref="char:EOLhyphen"/>ueyed for enemies they shal lytle preuayle.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:21494:14"/>
+               <head>❧ How a forteresse shal be kept and howe they that be be<g ref="char:EOLhyphen"/>seged shall order theyr selfe.</head>
+               <p>FYrste dygge vp the erthe to the heyght of the walles, for gonnes and other ingynes.</p>
+               <p>Item the bulwarkes must be fortefyed and he muste beware that the innar byldynges ioyne not to the walles for nygh to the walle inwardly muste be made a trenche to a good heyght so that yf the wall fayle the wall of erth may helpe.</p>
+               <p>Item he muste haue good ca<g ref="char:EOLhyphen"/>pitaynes to order and visite hys watche of the walles and men ex<g ref="char:EOLhyphen"/>perte.</p>
+               <p>Item crosbowes, būbardes, dykers, phisitiōs, surgeons, pot<g ref="char:EOLhyphen"/>ticares,
+<pb facs="tcp:21494:14"/>wyth all other thynges necessarye.</p>
+               <p>Item he must haue one capi<g ref="char:EOLhyphen"/>tayne to order hys watches as nede shall require.</p>
+               <p>Item euery nyght the walles must be sene and an order set and kepte for there sure custody,</p>
+               <p>Item there muste be watche kepte nygh to the walles to helpe there kepers as nede shall requi<g ref="char:EOLhyphen"/>re, and also to withstāde inwarde treason.</p>
+               <p>Item yf there be any noyse let euery mā go to there owne place for oftētimes such noyse is made, to maike men ronne together, whyle theyre enemyes inuade.</p>
+               <p>Item lette it be taken heade theyre whyles, that theyr waters be not poysoned.</p>
+               <p>Item when he shall inuade,
+<pb facs="tcp:21494:15"/>let hym well counsayll, and hys commodities foresene.</p>
+               <p>Item yf the walles be brokē, lette thē be amended forthe with, for feare of inuasion, as it was at the Rodes, whyles the Lorde was at masse.</p>
+               <p>Item let it euer be cōmoned, that more people shall cōme, to healpe to put them in better cō<g ref="char:EOLhyphen"/>forte.</p>
+               <p>Item a prince muste be ware that theyre be noo murmure in the hooste and yf theyre be, that they be openlye punysshed.</p>
+               <p>Item yf the capitaine vnder<g ref="char:EOLhyphen"/>stande, that any battaille is lost, or foreteresse taken, vnknowne vnto hys hooste, let that be kepte secrete, and lette hym euer shewe hys hooste, thynges of comforte and pleasure.</p>
+               <pb facs="tcp:21494:15"/>
+               <p> Item in the principal partes, muste be sette pryncypall men.</p>
+               <p>Item he muste haue gnydes, that knowe the countrye.</p>
+               <p>Item yf anye message come, lette him ponder, and repelye dis<g ref="char:EOLhyphen"/>cusse yt, and be not ouer lyghte of credence.</p>
+               <p>Itē yf it be a countrye of hyl<g ref="char:EOLhyphen"/>les, waters, or of straytes, he muste haue the moo footemen.</p>
+               <p>Item when it is proceded in battaille, some wyse men stronge and sure, muste be leste behynde, leste they inuayde in y<seg rend="sup">e</seg> inner par<g ref="char:EOLhyphen"/>te of the battaylle.</p>
+               <p>Item let newe lockes of gay<g ref="char:EOLhyphen"/>tes ofte be maide for feare of coū<g ref="char:EOLunhyphen"/>terfeytynge, and it muste be pro<g ref="char:EOLhyphen"/>uyded of sure kepers.</p>
+               <p>Item in the nyght, there must be sure watche, aboute, the yates
+<pb facs="tcp:21494:16"/>for daungers, that maye fall, as it was done at Arras.</p>
+               <p>Item there muste be made barrars, nyghe vnto the forete<g ref="char:EOLhyphen"/>resse for the defence of footemen, and the sauety othorsemen, and dyuerse other consyderations.</p>
+               <p>Itē the walles shall be streng<g ref="char:EOLunhyphen"/>thed wyth thornes, for shakinge.</p>
+               <p>Item prysoners must be well entreated, and yf thou take hym that is not trew vnto hys prince, punyshe hym forthe wythall.</p>
+               <p>Item yf any enemyes treate of delyueraunce, of theyr forete<g ref="char:EOLhyphen"/>resses heare it well, but be not lyghte of credence, for theyre be many souttelryes ymagined, and at Betynam many were by that meane destroyed.</p>
+               <p>Itē the watche must be kepte all nyghte, and the watche men
+<pb facs="tcp:21494:16"/>not departe, vntyll euery thynge be suere.</p>
+               <p>Item when the yates must be opened, there muste be so manye presente, as may wythstande the secrete assaute of theyre enemy<g ref="char:EOLhyphen"/>es, for by thys meane Leystoure was taken, for whē .ii. or .iii. had opened the yates, theyre enemy<g ref="char:EOLhyphen"/>es secretlye hydde, inuaded them and slewe them, and theire was treason wythin.</p>
+               <p>Item there muste be manye porters, for fewe maye be sone slayne by treason. &amp;c.</p>
+               <p>Item yf any in the nyght sea<g ref="char:EOLhyphen"/>son call to come in the whyche by name and voyce be knowen, that notwythstandynge, lye secrete e<g ref="char:EOLhyphen"/>spies let it be knowē, what nōber there be of thē &amp; when y<seg rend="sup">u</seg> openeste
+<pb facs="tcp:21494:17"/>the vtter gayte, see the innatre gayte shytte, for Frenche men by thys meane, toke Moelā, for .iiii. traytours fayned, that they had brought Inglyshe men from the bartaylle of sayncte Denys, they opened the gaytes, and were dys<g ref="char:EOLhyphen"/>ceyued,</p>
+               <p>Item manye men wyll consy<g ref="char:EOLhyphen"/>der and counsayll dyuerse, and great thynges, to be attempted, be not swyfte to fololwe theyre counsaylle.</p>
+               <p>Item some be ignoraunt, and dreade no pareylle.</p>
+               <p>Item some wyll perswade, and counsaill greate thynges to be done, that they may be taken, and thoughte cowragyous, the whyche in effecte be of noo cou<g ref="char:EOLhyphen"/>rage, <hi>Hi in bello extremi.</hi>
+               </p>
+               <p>Item lette hym beware, that
+<pb facs="tcp:21494:17"/>none of hys hooste haue to great familyarytie wyth hys enemyes for feare of treason.</p>
+               <p>Item when he wyll battayle lette it be secretlye done, that the guyders knowe it not, and lette the gaytes be faste shytte before he cause men to putte them in ar<g ref="char:EOLhyphen"/>mes, also let men be sette to kepe diligentelie the passages, oute of the cytie, that none may go vnto theyre enemyes to shewe the pre<g ref="char:EOLhyphen"/>parations that is made againste them, also when he shal come vn<g ref="char:EOLhyphen"/>to the fylde wyth hys ennemyes to fyghte, lette hym take awaye contrary vnto that waye, whych myghte be thoughte he woulde take, and after he hathe gone .ii. or .iii. myles, in that waye, lette him returne vnto the way, which was fyrste thought, that he wold
+<pb facs="tcp:21494:18"/>haue takē, but let hym take good counsell hede, that neyther the guydes, nor other of hys com<g ref="char:EOLhyphen"/>pany know whether he wyll goo vnto the tymethat they be in the feylde.</p>
+               <p>Item yf any of the carriages or guydes of the waynes come in to the towne let it be seene that, at theyre commynge in, one of the yares be shyte,</p>
+               <p>Item yf it fortune any of the sowldyers to be hurte, or woun<g ref="char:EOLhyphen"/>ded in battell or elles oute of the battel, lette the princes or theyr ministers see the medecine be mi<g ref="char:EOLhyphen"/>nystred vnto them in dewe order lette them be visited and gentel<g ref="char:EOLhyphen"/>lye intreated with good and softe wordes, and let thē neyther lacke phesicyon nor surgyon for these sayde thinges do encourage and
+<pb facs="tcp:21494:18"/>nourishe the hartes of warryers, and make them stronge and wyl<g ref="char:EOLhyphen"/>lynge to fyght,</p>
+               <p>Item it behoueth a prince to make good serche and to knowe whyche of hys company be moste diligente valyaunte and taught in feates of warre, and of them make most and to nourishe them wyth great liberalyte accordyng to theyr merites, for the lyberali<g ref="char:EOLhyphen"/>te of a prince causeth his compa<g ref="char:EOLhyphen"/>nye to be diligent, and also mul<g ref="char:EOLhyphen"/>teplyeth and encreaseth the same</p>
+               <p>Itē it apperteyneth to a prin<g ref="char:EOLhyphen"/>ce to forbydde that none of hys company entende conflycte or to goo oute of hys hooste wythoute lycence of theyre capytaynes.</p>
+               <p>Item many other thynges might be rehersed, wherby enemi<g ref="char:EOLunhyphen"/>es myght be constrayned and re<g ref="char:EOLhyphen"/>pressed,
+<pb facs="tcp:21494:19"/>but take thys for a gene<g ref="char:EOLhyphen"/>rall conclusyon, that the effecte of battayll consystethe and stan<g ref="char:EOLhyphen"/>deth in .iii. thynges, that is to say in the abundans of money, in good order putte and kepte, and in folowynge the counsayll and aduertisemēt of wyse and experte warryers.</p>
+            </div>
+            <div type="part">
+               <head>¶ To pacifye the sedition of sowldyours.</head>
+               <p>VVan A. Manlius consule, hadde perceyued, that hys sowdiours grudged against the menne of Campania, where they were nowe lodged, conspy<g ref="char:EOLhyphen"/>rynge togyther to slee theyr ho<g ref="char:EOLhyphen"/>stes, and after to take away their goodes, he spred abrode thys ru<g ref="char:EOLhyphen"/>inour, that they shulde lye there
+<pb facs="tcp:21494:19"/>styl all the wynter, and thus they of theyr purpose let and dystur<g ref="char:EOLhyphen"/>bed, he delyuered Campania frō greate perylle, and as tyme and occasion serued, punysshed them that were causers of that seditiō.</p>
+               <p>What tyme the legyons of the Romaynes were furyousely sente and bente on peryllous se<g ref="char:EOLhyphen"/>dytion, Lucius Sylla restored them from theyr rage vnto a qui<g ref="char:EOLhyphen"/>etenes by thys polycie: He com<g ref="char:EOLhyphen"/>maunded, that worde shulde be broughte hastely to the hooste, that theyr enemyes were at han<g ref="char:EOLhyphen"/>de, and that they shoulde rayse vp a crye, and call them to har<g ref="char:EOLhyphen"/>neys, and blowe vp the trumpet<g ref="char:EOLhyphen"/>tes, wherby he brake of the sedi<g ref="char:EOLhyphen"/>tron, they all togyther cōsentyng as nede required, agaynste theyr enemyes.</p>
+               <pb facs="tcp:21494:20"/>
+               <p> What tyme Pompeius hoost hadde slayne the Senatoures of Millan, for feare of trouble and busynes, that myghte haue hap<g ref="char:EOLhyphen"/>pened, yf he shoulde haue called the offenders alone to examina<g ref="char:EOLhyphen"/>tion, he sente for them all togy<g ref="char:EOLhyphen"/>ther, as well for the fautlesse, as the gyltie, so that they semed to be sēt for, for some other purpose and therfore appered they that were fautye, wyth lesse feare, by<g ref="char:EOLhyphen"/>cause they came not alone: and they, whose consciēce pleded them not gyl<g ref="char:EOLhyphen"/>tye, gaue good at<g ref="char:EOLhyphen"/>tendaunce, to kepe them that were fautie, lest per<g ref="char:EOLhyphen"/>aduenture their escape and flyght, myght haue tourned thē to displeasure.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:21494:20"/>
+            <p>❧ Imprinted at Londō in saynt Andrews paryshe besyde Baynards castell by Thomas Ray<g ref="char:EOLhyphen"/>nold and Wyl<g ref="char:EOLunhyphen"/>liam Hyll.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
